@@ -17,12 +17,12 @@
 - Clone on your local machine
 
 ```
-git clone https://github.com/ratnesh-maurya/your_contribution
+git clone https://github.com/akashprap/Birthday_Greeter
 
 ```
 - Navigate to project directory.
 ```
-cd Hacktoberfest2022
+cd Birthday_Greeter
 ```
 
 - Create a new Branch
