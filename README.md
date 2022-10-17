@@ -1,7 +1,7 @@
 # 📌Important
 # Do not add any pre existing solution.
 # Do not copy paste someone else code.
-# Do not try to spam.
+# Do not spam.
 -
 -
 
@@ -11,7 +11,7 @@
 
 # Steps to Contribute in repository :
 
-## Getting Started 🤩🤗:
+## Getting Started:
 
 - Fork this repo (button on top)
 - Clone on your local machine
