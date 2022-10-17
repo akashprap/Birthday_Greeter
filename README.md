@@ -2,8 +2,8 @@
 # Do not add any pre existing solution.
 # Do not copy paste someone else code.
 # Do not try to spam.
----
----
+-
+-
 
 ![1_IelAxduwS_YtpsrlRe1d0Q](https://user-images.githubusercontent.com/85143283/193421590-0246320e-5cb2-4363-b827-812b83fa3029.png)
 
